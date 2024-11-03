@@ -15,12 +15,12 @@
 **Data Analysis Tasks:**
  
 1. **Data Preprocessing:** Clean and prepare the dataset for analysis. 
-2. **Exploratory Data Analysis (EDA):** Conduct a thorough analysis of the data to identify patterns, trends, and relationships between variables. 
+2. **Exploratory Data Analysis (EDA):** Conduct a thorough data analysis to identify patterns, trends, and relationships between variables. 
 3. **Feature Engineering:** Create relevant features that capture the nuances of student behavior and acquisition channels. 
 4. **Clustering:** Employ k-means and hierarchical clustering algorithms to segment customers based on their characteristics and behaviors. 
 5. **Result Interpretation:** Analyze the clusters to identify distinct customer segments and derive actionable insights to inform marketing strategies. 
 
-By addressing these research questions, we aim to optimize our acquisition strategy, improve student outcomes, and allocate marketing resources effectively.
+Addressing these research questions will help us optimize our acquisition strategy, improve student outcomes, and allocate marketing resources effectively.
 
 ## Exploratory Data Analysis (EDA):
 ![image](https://github.com/user-attachments/assets/94f0dd30-85d5-445f-82a3-1d1538f53b61)
@@ -32,8 +32,10 @@ The heatmap shows correlations between variables like minutes watched, CLV, regi
 * **minutes_watched and channel:** Moderate negative correlation, suggesting channel might affect viewing behavior.
 ![image](https://github.com/user-attachments/assets/73e75201-4864-4ae8-9b2f-c6f0aff05102)
 
-## Results of clustering
+## Results of clustering:
+
 ![image](https://github.com/user-attachments/assets/cdca02be-a8b2-46b1-9365-acde271ff9db)
+
 The chart shows 8 customer segments based on CLV and minutes watched. Each segment has distinct characteristics:
 
 * **Instagram Explorers**: Low CLV, high video consumption.
