@@ -30,6 +30,7 @@ The heatmap shows correlations between variables like minutes watched, CLV, regi
 * **minutes_watched and CLV:** Weak positive correlation, suggesting customers who watch more videos have slightly higher lifetime value.
 * **CLV and region:** Moderate negative correlation, indicating region might influence CLV.
 * **minutes_watched and channel:** Moderate negative correlation, suggesting channel might affect viewing behavior.
+  
 ![image](https://github.com/user-attachments/assets/73e75201-4864-4ae8-9b2f-c6f0aff05102)
 
 ## Results of clustering:
