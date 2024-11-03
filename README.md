@@ -21,3 +21,30 @@
 5. **Result Interpretation:** Analyze the clusters to identify distinct customer segments and derive actionable insights to inform marketing strategies. 
 
 By addressing these research questions, we aim to optimize our acquisition strategy, improve student outcomes, and allocate marketing resources effectively.
+
+## Exploratory Data Analysis (EDA):
+![image](https://github.com/user-attachments/assets/94f0dd30-85d5-445f-82a3-1d1538f53b61)
+#### Insights from the Correlation Matrix
+The heatmap shows correlations between variables like minutes watched, CLV, region, and channel. Key insights include:
+
+* **minutes_watched and CLV:** Weak positive correlation, suggesting customers who watch more videos have slightly higher lifetime value.
+* **CLV and region:** Moderate negative correlation, indicating region might influence CLV.
+* **minutes_watched and channel:** Moderate negative correlation, suggesting channel might affect viewing behavior.
+![image](https://github.com/user-attachments/assets/73e75201-4864-4ae8-9b2f-c6f0aff05102)
+
+## Results of clustering
+![image](https://github.com/user-attachments/assets/cdca02be-a8b2-46b1-9365-acde271ff9db)
+The chart shows 8 customer segments based on CLV and minutes watched. Each segment has distinct characteristics:
+
+* **Instagram Explorers**: Low CLV, high video consumption.
+* **LinkedIn Networkers**: High CLV, moderate video consumption.
+* **Anglo-Saxon Multi-Channel**: Diverse CLV and video consumption.
+* **Friends' Influence**: Moderate CLV and video consumption.
+* **Facebook Followers**: High CLV, moderate video consumption.
+* **European Multi-Channel**: Diverse CLV and video consumption.
+* **Twitter Devotees**: Low CLV, high video consumption.
+* **Google-YouTube Mix**: Moderate CLV and video consumption.
+
+Insights:
+
+* CLV doesn't solely drive customer behavior.
