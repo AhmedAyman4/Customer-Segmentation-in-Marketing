@@ -1,6 +1,6 @@
-**Problem Definition**
+#**Problem Definition**
 
-**Objective:** To determine the impact of the acquisition channel on student learning outcomes and identify geographical regions where social media platforms are the primary source of platform discovery. 
+###**Objective:** To determine the impact of the acquisition channel on student learning outcomes and identify geographical regions where social media platforms are the primary source of platform discovery. 
 
 **Research Questions:**
 
